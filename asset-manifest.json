@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "nnedevn.github.io/test-deploy/static/css/main.b100e6da.chunk.css",
+    "main.js": "nnedevn.github.io/test-deploy/static/js/main.0decfb9e.chunk.js",
+    "main.js.map": "nnedevn.github.io/test-deploy/static/js/main.0decfb9e.chunk.js.map",
+    "runtime-main.js": "nnedevn.github.io/test-deploy/static/js/runtime-main.f0672805.js",
+    "runtime-main.js.map": "nnedevn.github.io/test-deploy/static/js/runtime-main.f0672805.js.map",
+    "static/js/2.e7122adf.chunk.js": "nnedevn.github.io/test-deploy/static/js/2.e7122adf.chunk.js",
+    "static/js/2.e7122adf.chunk.js.map": "nnedevn.github.io/test-deploy/static/js/2.e7122adf.chunk.js.map",
+    "index.html": "nnedevn.github.io/test-deploy/index.html",
+    "precache-manifest.3c964cfffbc1043cfbdcfd8652778916.js": "nnedevn.github.io/test-deploy/precache-manifest.3c964cfffbc1043cfbdcfd8652778916.js",
+    "service-worker.js": "nnedevn.github.io/test-deploy/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "nnedevn.github.io/test-deploy/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "nnedevn.github.io/test-deploy/static/media/logo.25bf045c.svg"
+  }
+}
