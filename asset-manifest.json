@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-deploy/static/css/main.b100e6da.chunk.css",
-    "main.js": "/test-deploy/static/js/main.8debfa1c.chunk.js",
-    "main.js.map": "/test-deploy/static/js/main.8debfa1c.chunk.js.map",
-    "runtime-main.js": "/test-deploy/static/js/runtime-main.aecb2cf0.js",
-    "runtime-main.js.map": "/test-deploy/static/js/runtime-main.aecb2cf0.js.map",
-    "static/js/2.0985f637.chunk.js": "/test-deploy/static/js/2.0985f637.chunk.js",
-    "static/js/2.0985f637.chunk.js.map": "/test-deploy/static/js/2.0985f637.chunk.js.map",
+    "main.js": "/test-deploy/static/js/main.35fef39d.chunk.js",
+    "main.js.map": "/test-deploy/static/js/main.35fef39d.chunk.js.map",
+    "runtime-main.js": "/test-deploy/static/js/runtime-main.93d54c68.js",
+    "runtime-main.js.map": "/test-deploy/static/js/runtime-main.93d54c68.js.map",
+    "static/js/2.e5c20fa7.chunk.js": "/test-deploy/static/js/2.e5c20fa7.chunk.js",
+    "static/js/2.e5c20fa7.chunk.js.map": "/test-deploy/static/js/2.e5c20fa7.chunk.js.map",
     "index.html": "/test-deploy/index.html",
-    "precache-manifest.1db6970d7d335cf21f8ef724efd61576.js": "/test-deploy/precache-manifest.1db6970d7d335cf21f8ef724efd61576.js",
+    "precache-manifest.4e0c5c0c1e34dfec342fb61d668de2c9.js": "/test-deploy/precache-manifest.4e0c5c0c1e34dfec342fb61d668de2c9.js",
     "service-worker.js": "/test-deploy/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/test-deploy/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/test-deploy/static/media/logo.25bf045c.svg"
